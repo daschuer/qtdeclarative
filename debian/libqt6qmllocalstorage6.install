@@ -1,1 +1,1 @@
-usr/lib/${DEB_HOST_MULTIARCH}/libQt6QmlLocalStorage.so.*
+usr/lib/*/libQt6QmlLocalStorage.so.*

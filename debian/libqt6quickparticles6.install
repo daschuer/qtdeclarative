@@ -1,1 +1,1 @@
-usr/lib/${DEB_HOST_MULTIARCH}/libQt6QuickParticles.so.*
+usr/lib/*/libQt6QuickParticles.so.*
