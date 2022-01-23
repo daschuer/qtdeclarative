@@ -1,0 +1,55 @@
+qt6-declarative (6.2.2+dfsg-3) UNRELEASED; urgency=medium
+
+  [ Pino Toscano ]
+  * Update symbols files from the logs of buildds.
+
+  [ Patrick Franz ]
+  * Remove copyright-script as it is now in the pkg-kde-tools package.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 04 Dec 2021 16:32:19 +0100
+
+qt6-declarative (6.2.2+dfsg-2) experimental; urgency=medium
+
+  [ Patrick Franz ]
+  * Fix list of files not to be installed.
+
+ -- Patrick Franz <deltaone@debian.org>  Fri, 03 Dec 2021 10:47:35 +0100
+
+qt6-declarative (6.2.2+dfsg-1) experimental; urgency=medium
+
+  [ Patrick Franz ]
+  * New upstream release (6.2.2).
+  * Bump Qt B-Ds to 6.2.2.
+  * Update ABI to 6.2.2.
+  * Update installed files.
+  * Update symbols from buildlog.
+  * Update d/copyright.
+
+ -- Patrick Franz <deltaone@debian.org>  Fri, 03 Dec 2021 09:18:40 +0100
+
+qt6-declarative (6.2.1+dfsg-4) experimental; urgency=medium
+
+  * Team upload.
+  * Update symbols files from the logs of buildds.
+
+ -- Pino Toscano <pino@debian.org>  Fri, 26 Nov 2021 18:29:21 +0100
+
+qt6-declarative (6.2.1+dfsg-3) experimental; urgency=medium
+
+  * Team upload.
+  * Update symbols files from the logs of buildds.
+
+ -- Pino Toscano <pino@debian.org>  Tue, 23 Nov 2021 07:00:18 +0100
+
+qt6-declarative (6.2.1+dfsg-2) experimental; urgency=medium
+
+  [ Patrick Franz ]
+  * Add lintian-overrides for generated files.
+
+ -- Patrick Franz <deltaone@debian.org>  Mon, 22 Nov 2021 00:40:47 +0100
+
+qt6-declarative (6.2.1+dfsg-1) experimental; urgency=medium
+
+  * Initial release (Closes: #995962).
+
+ -- Patrick Franz <deltaone@debian.org>  Wed, 06 Oct 2021 02:53:22 +0200
